@@ -1,2 +1,2 @@
 # qrcodegenerator
-Small QR Code Generator made in March of 2026
+Small QR Code Generator made in May of 2026
